@@ -1,0 +1,23 @@
+.bg-container {
+    height: 400px;
+    width: 240px;
+    background-color: #000000;
+}
+
+.res-container {
+    border: 3px solid gray;
+    color: white;
+    padding: 3px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.btn {
+    height: 55px;
+    width: 55px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 2px solid gray;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
